@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "jacob_portfolio",
+			"path": "../.."
+		},
+		{
+			"name": "frontend_react",
+			"path": "../../../../frontend_react"
+		}
+	],
+	"settings": {}
+}
